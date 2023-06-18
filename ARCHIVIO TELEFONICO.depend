@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1577782920 source:c:\users\maury\desktop\project\archivio_gestore_telefonico\prova_archivio_telefonico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1578911363 source:c:\users\maury\desktop\project\archivio_telefonico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
